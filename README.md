@@ -6,10 +6,20 @@ Objetivos: projetar um estacionamento usando princípios orientados a objetos
 Aqui estão alguns métodos que você deve ser capaz de executar:
 
 Diga-nos quantas vagas restam
+
+
 Diga-nos quantas vagas totais há no estacionamento
+
+
 Diga-nos quando o estacionamento estiver cheio
+
+
 Diga-nos quando o estacionamento estiver vazio
+
+
 Diga-nos quando certos lugares estão cheios, por exemplo quando todas as vagas de moto são ocupadas
+
+
 Diga-nos quantas vagas as vans estão ocupadas
 Orientações:
 
